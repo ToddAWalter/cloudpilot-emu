@@ -73,7 +73,7 @@ The following devices are currently emulated:
   Dmitry Grinberg)
 - rePalm paravirualized (a paravirtualized version of PalmOS created by Dmitry Grinberg
   that offers substantial performance improvements over emulated read hardware)
-- Handera 330, 330c (the lost color version of the 330c)
+- Handera 330, 330c (the lost color version of the 330)
 - Sony PEG-S300, PEG-S320
 - Sony PEG-S500C series
 - Sony PEG-T400 series
